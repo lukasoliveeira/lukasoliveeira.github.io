@@ -3,9 +3,8 @@
 <head>
 </head>
 <body>
-  teste ok
-  
   <?php
+  echo = 'teste ok';
   
   ?>
 </body>
